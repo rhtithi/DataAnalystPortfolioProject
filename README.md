@@ -21,7 +21,7 @@ In this section I will list data analytics projects briefly describing the techn
 # Analyzing Instagram User Behaviour
 Review The Data Insertion SQL Code: [Here](https://github.com/rhtithi/DataAnalystPortfolioProject/blob/main/dataset%20for%20ig_clone.sql)
 
-Review the Data Exploration SQL Script: HERE
+Review the Data Exploration SQL Script: [HERE](https://github.com/rhtithi/DataAnalystPortfolioProject/blob/main/Data%20Exploration%20set.sql)
 
 Goal: To Draw Insights to Help Marketing Team 
 
