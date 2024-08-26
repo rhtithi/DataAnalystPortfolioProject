@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Table of Contents
 * [About](https://github.com/rhtithi/rhtithi/blob/main/README.md)
-* [Portfolio Projects](https://github.com/rhtithi/DataAnalystPortfolioProject/blob/main/README.md)
+* [Portfolio Projects](#Portfolio-Projects)
 * Education
 * Certificates
 * Contact
