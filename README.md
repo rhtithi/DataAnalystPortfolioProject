@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 # Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 # Analyzing Instagram User Behaviour
-## SQL
+- SQL
 Review The Data Insertion SQL Code: [Here](https://github.com/rhtithi/DataAnalystPortfolioProject/blob/main/dataset%20for%20ig_clone.sql)
 
 Review the Data Exploration SQL Script: [HERE](https://github.com/rhtithi/DataAnalystPortfolioProject/blob/main/Data%20Exploration%20set.sql)
