@@ -13,8 +13,9 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Contents
 * [About](https://github.com/rhtithi/rhtithi/blob/main/README.md)
 * [Portfolio Projects](#Portfolio-Projects)
-* Certificates
-* Contact
+* [Certificates](#Certificates)
+* [Contact](#Contact)
+  
 # Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 # Analyzing Instagram User Behaviour
@@ -54,3 +55,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 [Data Analytics & Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_hfNoRgnB5NYyaxvny_1724057541860_completion_certificate.pdf) (Accenture-Forage)
 
 [Live Project Certificate](https://drive.google.com/file/d/1z-VWEQVDEF_tkQHEO3tw072U8M6bu9re/view?usp=sharing) 
+
+# Contact
+
+LinkedIn- [@TithiRaha](https://www.linkedin.com/in/tithi-raha/)
