@@ -13,7 +13,6 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Contents
 * [About](https://github.com/rhtithi/rhtithi/blob/main/README.md)
 * [Portfolio Projects](#Portfolio-Projects)
-* Education
 * Certificates
 * Contact
 # Portfolio Projects
@@ -45,3 +44,13 @@ social media platforms.
 Skills: data cleaning, data analysis, SQL
 
 Technology: MySQL Workbench
+
+# Certificates
+
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have:
+
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LK1G1JJOL88Q) (Coursera - Google)
+
+[Data Analytics & Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_hfNoRgnB5NYyaxvny_1724057541860_completion_certificate.pdf) (Accenture-Forage)
+
+[Live Project Certificate](https://drive.google.com/file/d/1z-VWEQVDEF_tkQHEO3tw072U8M6bu9re/view?usp=sharing) 
