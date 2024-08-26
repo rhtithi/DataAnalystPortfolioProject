@@ -1,5 +1,5 @@
 # Tithi Raha Portfolio Project
-# About
+## About
 👋 Hi, I'm Tithi! I have developed a strong foundation in Data science and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
 During my training and certification courses, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
@@ -10,16 +10,17 @@ Here is my CV in PDF.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-# Table of Contents
+## Table of Contents
 * [About](https://github.com/rhtithi/rhtithi/blob/main/README.md)
 * [Portfolio Projects](#Portfolio-Projects)
 * [Certificates](#Certificates)
 * [Contact](#Contact)
   
-# Portfolio Projects
+## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-# Analyzing Instagram User Behaviour
-- SQL
+### Analyzing Instagram User Behaviour
+- [x] SQL -
+
 Review The Data Insertion SQL Code: [Here](https://github.com/rhtithi/DataAnalystPortfolioProject/blob/main/dataset%20for%20ig_clone.sql)
 
 Review the Data Exploration SQL Script: [HERE](https://github.com/rhtithi/DataAnalystPortfolioProject/blob/main/Data%20Exploration%20set.sql)
@@ -47,7 +48,7 @@ Skills: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data De
 
 Technology: MySQL Workbench
 
-# Certificates
+## Certificates
 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have:
 
@@ -57,6 +58,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 [Live Project Certificate](https://drive.google.com/file/d/1z-VWEQVDEF_tkQHEO3tw072U8M6bu9re/view?usp=sharing) 
 
-# Contact
+## Contact
 
 LinkedIn- [@TithiRaha](https://www.linkedin.com/in/tithi-raha/)
