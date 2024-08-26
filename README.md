@@ -42,7 +42,7 @@ the rest of the team make informed decisions about the future direction of the I
 My findings could potentially influence the future development of one of the world's most popular 
 social media platforms. 
 
-Skills: data cleaning, data analysis, SQL
+Skills: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language)
 
 Technology: MySQL Workbench
 
